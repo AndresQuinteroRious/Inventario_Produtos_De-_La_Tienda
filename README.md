@@ -90,21 +90,8 @@ javac -d bin src\\*.java
 java -cp bin App
 ```
 
-Si se usa paquetes (package), adapte la compilación y ejecución incluyendo rutas y nombres de paquete.
 
-## Sugerencias y mejoras opcionales
 
-- Persistencia: guardar/leer inventario a/desde CSV o JSON.
-- Cambiar a `ArrayList<Producto>` para no limitar la cantidad de productos.
-- Añadir pruebas unitarias con JUnit para `Producto` y utilidades.
 
----
 
-Si quieres, puedo ahora:
-
-- Generar/ajustar automáticamente el código fuente (`Producto.java`, `App.java`) con el menú y validaciones (recomendado).
-- Añadir persistencia CSV y ejemplo de archivo.
-- Crear pruebas unitarias y un script por lotes para Windows.
-
-Indica qué prefieres que implemente a continuación.
 
