@@ -1,4 +1,7 @@
 # Inventario de Productos - Aplicación Java (POO y Arreglos)
+## autores
+### Jhojanth Camilo Alegria Escobar
+###    Andres Mauricio Quintero Rios
 
 ## Resumen
 
@@ -104,3 +107,4 @@ Si quieres, puedo ahora:
 - Crear pruebas unitarias y un script por lotes para Windows.
 
 Indica qué prefieres que implemente a continuación.
+
