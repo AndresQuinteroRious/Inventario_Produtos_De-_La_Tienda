@@ -91,7 +91,7 @@ public class App {
     public static void main(String[] args) throws Exception {
         int opcion=0;
         do { 
-            System.out.println("\n=====MENU PRINCIPAL=====");
+            System.out.println("\n====Sistema de Inventario=====");
             System.out.println("1. Agregar Producto");
             System.out.println("2. Mostrar Inventario");
             System.out.println("3. calcular Valor Total del Inventario");
